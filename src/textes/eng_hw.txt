@@ -1,0 +1,69 @@
+header=
+    title= English H/W
+    shownm= true
+    person=
+        name= Rachel
+        aka= 1
+        side= left
+    person=
+        name= Moniсa
+        aka= 2
+        side= right
+part=
+page=
+1=
+Hey. Didn't expect to see you here!
+2=
+Oh, hey, morning! I don’t usually buy coffee here, but today I dropped in before the meeting.
+1=
+Do you have a couple of minutes? We haven’t seen each other for ages.
+2=
+Sure, I do. How have you been doing lately? 
+1=
+Thanks for asking, I've been better, you know. Yesterday I ran away from my own wedding.
+2=
+What a news! What happened ? Are you alright ?
+1=
+Only in front of the altar did I realize that I don’t want my marriage to be convenience. I have always wanted to find a love match.
+2=
+Oh, I'm sorry for your wedding, but I suppose you did the right thing.
+1=
+Anyway, what about you? How are your mom and dad? How is Ross?
+2=
+I'm okay. A couple of days ago we had a family reunion and I think we have a huge generation gap problem.
+1=
+How did you realize it?
+2=
+Our parents just found out that Ross is getting divorsed and urged him to keep the marriage at least for a child.
+1=
+I'm sorry to hear that. It must be hard time for him already.
+2=
+Yeah, I think it really is.
+1=
+Don't your parents understand that its better for a child to see his mom and dad happy on their own than watch them fighting every week ?
+2=
+Unfortunately, they don't. It's just me and a couple of our friends who help him get through that trying time.
+1=
+And his son, Ben, is it?
+2=
+Right, what about him?
+1=
+Well, his situation reminds me of my sister's. When I moved out, our parents also had a divorse, so her teenage life wasn’t always a picnic either. Despite the fact that we were always good cared about it was also a lot enforced discipline there. So we had to show our good breeding by behaving ourselves. 
+2=
+Yeah, well I hope she is okay now.
+1=
+She is doing just fine and so are my parents.
+2=
+Well done then. Anyway, I'm thinking a lot about how we are becoming a mature adults, able to control our own life.
+1=
+So am I! It seems like only yesterday were we spoiled little children and now - look at us - all respected grown-ups.
+2=
+Yeah, I've always seen myself as a misunderstood genius.
+1=
+So, that’s good we figured out how to develop our own values.
+2=
+Oh, look at the clock. I'm so sorry but I ve to run. The meeting will start in a few minutes. It was lovely to see you.
+1=
+Likewise. See you around then. Give me a call sometime.
+2=
+Sure, bye.
